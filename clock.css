@@ -21,7 +21,7 @@ body{
 }
 #minute{
     position: relative;
-    background-color: gray;
+    background-color: red;
     height: 70px;
     top: -30px;
     width: 3px;
