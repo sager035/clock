@@ -11,7 +11,7 @@ body{
 }
 #hour{
     position: relative;
-    background-color:black;
+    background-color:grey;
     height: 60px;
     width: 5px;
     top: 40px;
